@@ -38,8 +38,8 @@ In addition to the techniques learned during the data analysis, our team learned
 
 
 ## Tools
-- MS Excel,
-- Python/Panda/Matplotlib,
+- MS Excel
+- Python/Panda/Matplotlib
 - Jupyter Notebook
 - MS PPT
 
