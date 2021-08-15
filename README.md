@@ -37,10 +37,10 @@ In addition to the techniques learned during the data analysis, our team learned
 ![2017-2021 Sales Box Plots](https://user-images.githubusercontent.com/82190357/129466447-394a7fff-305d-40b0-8b97-8ca115e19bfd.png)
 
 ## Tools
-Excel,
-PPT,
-Python/Panda/Matplotlib,
-Jupyter Notebook
+-MS Excel,
+-Python/Panda/Matplotlib,
+-Jupyter Notebook
+-MS PPT
 
 
 
