@@ -1,84 +1,59 @@
-# ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
-# WebApp
-<table>
-<tr>
-<td>
-  A webapp using Quandl API to display history of stock growth in a given period of time. It helps predict the growth of stocks from the  charts of stock performace in any period of time. It helps to judge stocks, with the principle of momentum investing, which returns 1% per month on average.
-</td>
-</tr>
-</table>
+<!-- ![Screenshot_2](https://user-images.githubusercontent.com/82190357/129462799-cb91fd97-74f9-44b3-b877-fc0c8c571d8a.png) -->
+
+<!-- <p align="center"> -->
+![Screenshot_3](https://user-images.githubusercontent.com/82190357/129462837-22a95939-be73-486a-94f2-d89e883e4248.png)
+<!-- </p> -->
 
 
-## Demo
-Here is a working live demo :  https://iharsh234.github.io/WebApp/
+<p align="center">
+Automobile Trends in the United States
+  
+  
+There are many factors that can influence vehicle sales. In this group project, our team examined several possible drivers to see if and how they relate to vehicle sales in the U.S. Through the use of statistical techniques, such as correlation and linear regression models, we were able to quantify the direction and strength of these drivers and their relationship with vehicle sales. 
+  </p>
+
+## Motivation
+To explore specific drivers of influence on vehicle sales in the U.S. 
+
+## Project
+Although there are numerous factors of influence, ranging from political to economic to manufacturing and production, due to time constraints, our team focused on a diverse sample of these drivers: gas prices, unemployment rate, steel production, consumer price indexes for new and used vehicles. 
+
+## Problem Solved
+Our team wanted to find out how volatility in any of these drivers influenced vehicles sales. Knowing the state of any of these drivers and whether they may be decreasing or increasing may be useful to know if in the market for a vehicle. 
+
+## What Did We Learn
+In addition to the data analysis, our team learned that there are many more factors that can influence vehicle sales. We also determined that the drivers we researched in this study, even though some of which may have a correlation to vehicles sales, the relationships were not strong enough to conclude that they were statistically significant and were unable to prove a correlation/causation effect. 
 
 
-## Site
-
-### Landing Page
-Currently it is working on all NSE (India) Stocks, BSE (India) Stocks Symbol will be added soon.
-
-![](https://iharsh234.github.io/WebApp/images/demo/web_app_face.JPG)
-
-### Query Filled Form
-![](https://iharsh234.github.io/WebApp/images/demo/demo_query.JPG)
-
-### Charts
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart1.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart2.JPG)
-![](https://iharsh234.github.io/WebApp/images/demo/demo_chart3.JPG)
-
-
-## Mobile support
-The WebApp is compatible with devices of all sizes and all OS's, and consistent improvements are being made.
-
-![](https://iharsh234.github.io/WebApp/images/demo/mobile.png)
+![FORD_PRODUCTION1](https://user-images.githubusercontent.com/82190357/129466043-8d780366-1c1c-431d-95fc-60e0d9bcf1ec.jpg)
 
 
 
+## Charts
+![LinRegression Unemployment Rate v Auto Sales without Outliers](https://user-images.githubusercontent.com/82190357/129462636-4cdb1af0-eba4-4580-a010-7df81443e681.png)
+![LinRegression Gas v Auto Sales without Outliers](https://user-images.githubusercontent.com/82190357/129466146-9163c1e8-a034-4543-9659-fdf6715ed196.png)
+![Correlation Matrix](https://user-images.githubusercontent.com/82190357/129466451-e132fcd3-eff2-4851-bd56-fb1bdcfb93a2.png)
+![2017-2021 Sales Box Plots](https://user-images.githubusercontent.com/82190357/129466447-394a7fff-305d-40b0-8b97-8ca115e19bfd.png)
 
-## [Usage](https://iharsh234.github.io/WebApp/) 
+## Tools
+Excel,
+PPT,
+Python/Panda/Matplotlib,
+Jupyter Notebook
 
-### Development
-Want to contribute? Great!
-
-To fix a bug or enhance an existing module, follow these steps:
-
-- Fork the repo
-- Create a new branch (`git checkout -b improve-feature`)
-- Make the appropriate changes in the files
-- Add changes to reflect the changes made
-- Commit your changes (`git commit -am 'Improve feature'`)
-- Push to the branch (`git push origin improve-feature`)
-- Create a Pull Request 
-
-### Bug / Feature Request
-
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/iharsh234/WebApp/issues/new) by including your search query and the expected result.
-
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/iharsh234/WebApp/issues/new). Please include sample queries and their corresponding results.
+![Dealership2](https://user-images.githubusercontent.com/82190357/129466605-cf269606-a27f-444c-9bbd-87744953759c.jpg)
 
 
-## Built with 
-
-- [jQuery - Ajax](http://www.w3schools.com/jquery/jquery_ref_ajax.asp) - jQuery simplifies HTML document traversing, event handling, animating, and Ajax interactions for rapid web development.
-- [Google Chart API](https://developers.google.com/chart/interactive/docs/quick_start) - Free , Rich Gallery , Customizable and Cross-browser compatible.
-- [Bootstrap](http://getbootstrap.com/) - Extensive list of components and  Bundled Javascript plugins.
-
-
-## To-do
-- Add BSE (India) Symbol to the current App.
-- Decide comparison models of Stocks. (suggestions are most welcome).
-- Another WebApp, capable of comparing at least 10 stocks.
 
 ## Team
-
-[![Harsh Vijay](https://avatars1.githubusercontent.com/u/12688534?v=3&s=144)](https://github.com/iharsh234)  | [![Quandl.com](https://github.com/iharsh234/WebApp/blob/master/images/quandl.jpg)](https://www.quandl.com/)
+Michelle Herman
 ---|---
-[Harsh Vijay ](https://github.com/iharsh234) |[Quandl](https://www.quandl.com)
+Daniella Mayoral
+---|---
+[![Darrell Horich](https://github.com/D11eleven)
+---|---
+Daniella Mayoral
 
-## [License](https://github.com/iharsh234/WebApp/blob/master/LICENSE.md)
 
-MIT © [Harsh Vijay ](https://github.com/iharsh234)
 
 
