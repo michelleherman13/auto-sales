@@ -1,20 +1,11 @@
 
  <!-- ![Screenshot_2](https://user-images.githubusercontent.com/82190357/129462799-cb91fd97-74f9-44b3-b877-fc0c8c571d8a.png) -->
 
-<!-- <p align="center"> -->
+
 ![Screenshot_3](https://user-images.githubusercontent.com/82190357/129462837-22a95939-be73-486a-94f2-d89e883e4248.png)
-<!-- </p> -->
 
-
-
-
-                                                 
-
-  
-
-<p align="center">       
-# Automobile Trends in the United States
-</p> 
+      
+# Automobile Trends in the United States 
 
 ### Project
 There are numerous factors that can influence vehicle sales. They can range from political and economic issues to the supply chain and manufacturing. Due to time constraints, our team narrowed the scope to a diverse sample of possible drivers: gas prices, unemployment rate, steel production, and consumer price indexes for new and used vehicles.
