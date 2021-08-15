@@ -14,11 +14,12 @@
 There are many factors that can influence vehicle sales. In this group project, our team examined several possible drivers to see if and how they relate to vehicle sales in the U.S. Through the use of statistical techniques, such as correlation and linear regression models, we were able to quantify the direction and strength of these drivers and their relationship with vehicle sales. 
   </p>
 
+## Project
+There are numerous factors that can influence vehicle sales. They can range from political and economic issues to the supply chain and production, but due to time constraints, our team focused on a diverse sample of these drivers: gas prices, unemployment rate, steel production, consumer price indexes for new and used vehicles.
+
 ## Motivation
 To explore specific drivers of influence on vehicle sales in the U.S. 
 
-## Project
-There are numerous factors that can influence vehicle sales. They can range from political and economic issues to the supply chain and production, but due to time constraints, our team focused on a diverse sample of these drivers: gas prices, unemployment rate, steel production, consumer price indexes for new and used vehicles. 
 
 ## Problem Solved
 Our team wanted to find out how volatility in any of these drivers influenced vehicles sales. Knowing the state of any of these drivers and whether they may be decreasing or increasing may be useful to know if in the market for a vehicle.
