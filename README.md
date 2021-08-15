@@ -23,12 +23,12 @@ There are numerous factors that can influence vehicle sales. They can range from
 ## Problem Solved
 Our team wanted to find out how volatility in any of these drivers influenced vehicles sales. Knowing the state of any of these drivers and whether they may be decreasing or increasing may be useful to know if in the market for a vehicle. 
 
-## What Did We Learn
-In addition to the techniques learned during the data analysis, our team learned that there are many more factors that can influence vehicle sales. We also determined that the drivers we researched in this study, even though some of which may have a correlation to vehicles sales, the relationships were not strong enough to conclude that they were statistically significant and were unable to prove a correlation/causation effect. 
 
 
 ![FORD_PRODUCTION1](https://user-images.githubusercontent.com/82190357/129466043-8d780366-1c1c-431d-95fc-60e0d9bcf1ec.jpg)
 
+## What Did We Learn
+In addition to the techniques learned during the data analysis, our team learned that there are many more factors that can influence vehicle sales. We also determined that the drivers we researched in this study, even though some of which may have a correlation to vehicles sales, the relationships were not strong enough to conclude that they were statistically significant and were unable to prove a correlation/causation effect. 
 
 
 ## Charts
