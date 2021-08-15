@@ -36,12 +36,12 @@ In addition to the techniques learned during the data analysis, our team learned
 ![LinRegression Gas v Auto Sales without Outliers](https://user-images.githubusercontent.com/82190357/129466146-9163c1e8-a034-4543-9659-fdf6715ed196.png)
 ![2017-2021 Sales Box Plots](https://user-images.githubusercontent.com/82190357/129466447-394a7fff-305d-40b0-8b97-8ca115e19bfd.png)
 
-## Tools
-*MS Excel,
-*Python/Panda/Matplotlib,
-*Jupyter Notebook
-*MS PPT
 
+## Tools
+MS Excel,
+Python/Panda/Matplotlib,
+Jupyter Notebook
+MS PPT
 
 
 ![Dealership2](https://user-images.githubusercontent.com/82190357/129466605-cf269606-a27f-444c-9bbd-87744953759c.jpg)
