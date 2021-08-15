@@ -53,7 +53,7 @@ Michelle Herman
 ---|---
 Daniella Mayoral
 ---|---
-[![Darrell Horich](https://github.com/D11eleven)
+[Darrell Horich](https://github.com/D11eleven)
 ---|---
 Samantha Perez
 
