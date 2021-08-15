@@ -8,7 +8,7 @@
 
 
 <p align="center">
-**Automobile Trends in the United States** 
+_Automobile Trends in the United States_ 
   </p>
 
 ## Project
