@@ -38,10 +38,10 @@ In addition to the techniques learned during the data analysis, our team learned
 
 
 ## Tools
-MS Excel,
-Python/Panda/Matplotlib,
-Jupyter Notebook
-MS PPT
+- MS Excel,
+- Python/Panda/Matplotlib,
+- Jupyter Notebook
+- MS PPT
 
 
 ![Dealership2](https://user-images.githubusercontent.com/82190357/129466605-cf269606-a27f-444c-9bbd-87744953759c.jpg)
