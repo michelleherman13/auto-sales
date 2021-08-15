@@ -53,13 +53,13 @@ In addition to the statistical techniques learned during the data analysis, our 
 
 
 ## Team
-Michelle Herman
+[Michelle Herman](https://github.com/michelleherman13)
 ---|---
-Daniella Mayoral
+[Daniella Mayoral](https://github.com/dmayo0317)
 ---|---
 [Darrell Horich](https://github.com/D11eleven)
 ---|---
-Samantha Perez
+[Samantha Perez](https://github.com/Sjenn257)
 
 
 
