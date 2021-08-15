@@ -54,7 +54,7 @@ Daniella Mayoral
 ---|---
 [![Darrell Horich](https://github.com/D11eleven)
 ---|---
-Daniella Mayoral
+Samantha Perez
 
 
 
