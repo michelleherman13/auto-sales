@@ -7,7 +7,7 @@
 #                                               Automobile Trends in the United States 
 
 ### Project
-There are numerous factors that can influence vehicle sales. They can range from political and economic issues to the supply chain and manufacturing. Due to time constraints, our team narrowed the scope to a diverse sample of possible drivers: gas price, unemployment rate, steel production, and consumer price indexes for new and used vehicles.
+There are a number of factors that can influence vehicle sales. They can range from political and economic issues to the supply chain and manufacturing. Due to time constraints, our team narrowed the scope to a diverse sample of possible drivers: gas price, unemployment rate, steel production, and consumer price indexes for new and used vehicles.
 
 In this group project, our team examined these possible drivers to see if and how they relate to vehicle sales in the U.S. Through the use of statistical techniques, such as correlation and linear regression models, we were able to quantify the direction and strength of these drivers and their relationship with vehicle sales.
 
